@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+TypeScript 💙
 - 🔭 I’m currently working on sociohab, a platform that lets you track your habits in a collaborative environment
 - 🌱 I’m currently learning NextJS, NodeJS, and React-Native with some data science
 - 💬 Ask me about my plans :D
