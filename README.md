@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-TypeScript 💙
-- 💬 Ask me about my plans :D
-- 📫 How to reach me: Discord Orchid#6129
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like chocolate
+I enjoy Math, Stats, and programming.
+
+Projects I am working on:
+- Juuman - Personal Finance Manager
+
+
+
+Personal website: https://kanjurer.xyz
+
 
