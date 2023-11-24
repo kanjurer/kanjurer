@@ -7,6 +7,6 @@ Projects I am working on:
 
 
 
-Personal website: https://kanjurer.xyz
+Email: kanav.bhardwaj@dal.ca
 
 
